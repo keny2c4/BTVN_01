@@ -25,7 +25,7 @@ public class baitap1 {
     }
     public static void main(String[] args) {
         boolean a= soNguyenTo(23);
-        boolean b=soLe(12);
+        boolean b=soLe(13);
         System.out.println("a so nguyen to: "+a);
         System.out.println("b so le: "+b);
     }
